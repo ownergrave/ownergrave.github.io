@@ -9,7 +9,7 @@ ignoreErrors = ["error-disable-taxonomy"]
 
 [module]
   [[module.imports]]
-     path = "github.com/janraasch/hugo-bearblog"
+     path = "github.com/mathdoggy/mathdoggy.github.io"
   [module.hugoVersion]
      extended = true
      
