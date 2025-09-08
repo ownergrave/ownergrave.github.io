@@ -25,8 +25,8 @@ ignoreErrors = ["error-disable-taxonomy"]
   images = ["images/logo.png"]
   title = "Mathrew ʕ•ᴥ•ʔ Xian Bear"
   # hideMadeWithLine = true
-  # enablePostNavigator = true
-  # dateFormat = "2006-01-02"
+  enablePostNavigator = true
+  dateFormat = "2006-01-02"
   
 [markup]
   [markup.highlight]
