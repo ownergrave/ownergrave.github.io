@@ -7,6 +7,14 @@ languageCode = "en-US"
 enableRobotsTXT = true
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
+
+[module]
+  [[module.imports]]
+     path = "github.com/janraasch/hugo-bearblog"
+  [module.hugoVersion]
+     extended = true
+     
+     
 [permalinks]
   blog = "/:slug/"
   tags = "/blog/:slug"
