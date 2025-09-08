@@ -1,6 +1,6 @@
 # Mathdoggy ʕ•ᴥ•ʔ Blog 
 
-[![CI](https://github.com/mathdoggy/mathdoggy.github.io/actions/workflows/ci.yml/badge.svg)](https://github.com/mathdoggy/mathdoggy.github.io/actions/workflows/ci.yml)
+
 
 
 A Blog based on [Bear Blog](https://bearblog.dev).
