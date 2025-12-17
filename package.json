@@ -1,8 +1,8 @@
 {
-  "name": "mathdoggy.github.io",
+  "name": "ownergrave.github.io",
   "private": true,
   "version": "1.0.0",
-  "description": "🧸 A [Hugo Bear Blog](https://mathdoggy.github.io).",
+  "description": "🧸 A [GN Bear Blog](https://ownergrave.github.io).",
   "main": "index.js",
   "devDependencies": {
     "js-beautify": "^1.15.4"
@@ -13,16 +13,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mathdoggy/mathdoggy.github.io.git"
+    "url": "git+https://github.com/ownergrave/ownergrave.github.io.git"
   },
   "author": {
-    "name": "Mathrew Xian",
+    "name": "Owner Grave",
     "email": "mrchanmp@disroot.org",
     "url": "https://mathdoggy.bearblog.dev"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mathdoggy/mathdoggy.github.io/issues"
+    "url": "https://github.com/ownergrave/ownergrave.github.io/issues"
   },
-  "homepage": "https://github.com/mathdoggy/mathdoggy.github.io#readme"
+  "homepage": "https://github.com/mathdoggy/ownergrave.github.io#readme"
 }
